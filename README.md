@@ -15,3 +15,5 @@ Alternative command
 reg query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts" /s
 ```
 
+## Included fonts 
+The fonts found in the fonts directory are Open Source fonts grabbed from the internet.
